@@ -18,8 +18,8 @@ The n-back task is a continuous performance task that is commonly used as an ass
 
 The spatial working memory score demonstrates a clear correlation as well. 
 
-According to the data gathered, no particular genre of game had an outsize correlation with the test outcomes. 
+According to the data analyzed, no particular genre of game had an outsize correlation with the test outcomes. 
 
-I confirmed the statistical significance of what we see on the charts via t-testing. This leads me to conclude that, in general, playing video games is beneficial to brain operation. 
+I confirmed the statistical significance of what we see on the charts via t-testing. This leads me to conclude that playing video games is likely to be beneficial to memory operations for homo sapiens.
 
 
