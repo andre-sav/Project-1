@@ -8,7 +8,7 @@
 
 * **Does any particular variant of game have a greater impact than others?**
 
-The goal of this project was to ascertain whether video games benefit memory function. Using public data, I found there to be positive correlations with all memory performance metrics and playing video games. This was particularly prominent with n-back task scores. 
+The goal of this project was to ascertain whether video games benefit memory function. Using publicly available data, I found there to be positive correlations with all memory performance metrics and playing video games. This was particularly prominent with n-back task scores. 
 
 ![Graph](/img/n-back-gamer.png)
 
@@ -16,7 +16,7 @@ The n-back task is a continuous performance task that is commonly used as an ass
 
 ![Graph2](/img/spatial.png)
 
-The spatial working memory score demonstrates a clear correlation as well. 
+The spatial working memory scores demonstrate a clear correlation as well. 
 
 According to the data analyzed, no particular genre of game had an outsize correlation with the test outcomes. 
 
